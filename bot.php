@@ -3729,4 +3729,5 @@ if (isset($callback_data) && $callback_data === 'compulsory_check') {
         send_message($chat_id, get_message('error_generic', 'fa'));
     }
 }
+
 ?>
